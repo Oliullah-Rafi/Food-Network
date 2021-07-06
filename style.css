@@ -1,0 +1,123 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.Orange-color{
+    color:orange;
+}
+
+.link-decor{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5%;
+    font-weight: 700;
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px orange;
+}
+.div-class{
+    width:50%;
+    padding-left: 2%;
+
+}
+.div-class img{
+    width:100%;
+    border-radius: 10%;
+    margin-top: 5%;
+}
+
+.Flexible-Container{
+    display: flex;
+    margin-bottom: 150px;
+    padding-top: 5%;
+}
+h1{
+    font-size: 40px;
+    padding-top: 5%;
+    
+}
+.Second-border{
+    background-image: url(images2bg1.png);
+    height: 500px;
+    width: 1349px;
+    background-repeat: no-repeat;
+    
+   
+}
+.Second-border img{
+    height: 450px;
+    width:350px;
+    margin-left: 15%;
+}
+
+
+
+
+.Recepies img{
+    height:300px ;
+    width:360px ;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+    border-radius: 30px;
+    background-position: center;
+    
+}
+.flex-section{
+    display: flex; 
+    margin-bottom: 150px;
+    padding-top: 5%; 
+}
+footer div{
+  background-color: green;
+  
+  
+  text-align: center;
+  padding-top: 4%;
+ 
+
+}
+
+.bonus{
+    display: flex; 
+    margin-left: 20px; 
+}
+.bonus h1{
+    display: inline-block;
+    padding-left: 2px;
+    margin-left: 19%;
+    
+}
+
+
+.bonusDiv{
+    box-shadow: 10px 5px 18px black;
+    width: 80%;
+    padding-bottom: 20px;
+    margin-left: 10%;
+    margin-bottom: 3%;
+    border-radius: 45px;
+}
+.bonus div p{
+    display: inline-block;
+    margin-left:15%;
+}
+
+
+.banner3 h1{
+    color: crimson;
+    margin-left: 10%;
+}
+.banner3 p{
+    color: crimson;
+    margin-left: 20%;
+    margin-right: 10%;
+    text-align: justify;
+
+}
+.Recepies{
+    margin-left: 5%;
+    width: 33%;
+    box-shadow: 10px 5px 15px black;
+    border-radius:30px;
+}
